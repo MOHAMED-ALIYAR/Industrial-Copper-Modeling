@@ -1,4 +1,5 @@
-
+Weblink: https://industrial-copper-modeling-rmx43zdkqgungnd8aoh4sf.streamlit.app/
+Demo video: https://www.linkedin.com/feed/update/urn:li:activity:7093898748501626880/
 # Industrial Copper Modeling
 
 This web application allows you to predict the selling price and status for industrial copper based on the given input parameters. The application uses machine learning models trained on the data to provide accurate predictions.
